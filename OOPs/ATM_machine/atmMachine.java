@@ -10,8 +10,8 @@ class atm {
     int PIN = 6791;
     Scanner sc = new Scanner(System.in);
 
-    // check pin method
-    void checkPin() {
+    // constructor
+    atm() {
         System.out.print("\n\nPlease enter your 4 digit pin: ");
         int enteredPin = sc.nextInt();
 
@@ -19,7 +19,6 @@ class atm {
             menu();
         } else {
             System.out.println("Invalid pin entered by the user");
-            checkPin();
         }
     }
 
@@ -102,7 +101,6 @@ public class atmMachine {
     public static void main(String[] args) {
         
         atm a1 = new atm();
-        a1.checkPin();
     }
 
 }

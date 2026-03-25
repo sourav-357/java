@@ -70,7 +70,7 @@ The codes are based on the **"Java Programming Masterclass for Software Develope
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/sourav-kumar-357/Java-Learning-Codes.git
+   git clone https://github.com/sourav-357/Java.git
    ```
 2. **Open in any Java IDE**
    - Recommended: IntelliJ IDEA / Eclipse / VSCode
@@ -84,7 +84,7 @@ The codes are based on the **"Java Programming Masterclass for Software Develope
 ## ✍️ Author
 
 - **Name**: Sourav Kumar
-- **GitHub Profile**: [@sourav-kumar-357](https://github.com/sourav-kumar-357)
+- **GitHub Profile**: [@sourav-kumar-357](https://github.com/sourav-357)
 - **LinkedIn**: [Sourav Kumar](https://linkedin.com/in/souravkumar1976)
 
 ---

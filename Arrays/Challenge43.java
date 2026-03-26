@@ -1,4 +1,4 @@
-package Arrays_KG_Coding;
+
 
 import java.util.Scanner;
 

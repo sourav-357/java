@@ -1,8 +1,8 @@
-package Arrays_KG_Coding;
+
 
 import java.util.Scanner;
 
-public class Challenge42 {
+public class Challenge41 {
 
      static Scanner sc = new Scanner(System.in);
 
@@ -27,22 +27,19 @@ public class Challenge42 {
 
      public static void main(String[] args) {
 
+          int num = sc.nextInt();
+          System.out.print("\nPlease enter the number you want to check: ");
+          int occourances = 0;
+
           int[] arr = inputArray();
-          int min = arr[0];
-          int max = arr[0];
-
-          for (int i = 0; i < arr.length; i++) {
-               if (arr[i] < min)
-                    min = arr[i];
+          int i = 0;
+          while (i < arr.length) {
+               if (arr[i] == num) {
+                    occourances++;
+               }
                i++;
           }
-          System.out.println("The minimumm among all the elements of this array is " + min);
 
-          for (int i = 0; i < arr.length; i++) {
-               if (arr[i] > max)
-                    max = arr[i];
-               i++;
-          }
-          System.out.println("The maximum among all the elements of this array is " + max);
+          System.out.println("The entered Number " + num + " is entered " + occourances + " times in the array!");
      }
 }

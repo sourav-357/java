@@ -28,25 +28,13 @@ The codes are based on the **"Java Programming Masterclass for Software Develope
     - Variables, Data Types, Operators, Control Statements
 /Arrays
     - Single-Dimensional, Multi-Dimensional Arrays
-/Methods
-    - Functions, Method Overloading, Recursion
 /OOP
     - Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation
-/Collections
+/Tim-Buchalka
     - List, Set, Map Implementations (ArrayList, LinkedList, HashMap, HashSet)
 /ExceptionHandling
     - Try-Catch, Throw, Throws, Custom Exceptions
-/FileIO
-    - Reading and Writing Files using Streams, Readers, Writers
-/Multithreading
-    - Thread Class, Runnable Interface, Synchronization Basics
-/JDBC
-    - Database Connectivity with SQLite (CRUD Operations)
-/GUI
-    - Basic GUI Projects using JavaFX, AWT, Swing
-/MiniProjects
-    - Small Console-based Applications integrating multiple concepts
-```
+
 
 ---
 
